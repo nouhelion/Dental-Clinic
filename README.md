@@ -42,7 +42,23 @@ G-- we are able to add a patient
   <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_lZSes8KpbV.png" width="60%"></a>
 </p>
 
-H-- we can also list our patients
+H-- we can modify the patient too
+<p align="center">
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_Cibvj68BmF.png" width="60%"></a>
+</p>
+
+I-- when we delete a patient and we go check the list of patient we find nothing 
+to delete the patient we click on the button supprimer
+<p align="center">
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_gV1KtkJQXX.png" width="60%"></a>
+</p>
+
+then check the list
+<p align="center">
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_syY03rLrzS.png" width="60%"></a>
+</p>
+
+J-- we can also list our patients
 <p align="center">
   <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_gV1KtkJQXX.png" width="60%"></a>
 </p>
