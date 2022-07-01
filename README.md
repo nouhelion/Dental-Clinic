@@ -9,5 +9,5 @@ B-- to start the project you have to click run project :
 </p>
 C-- when you run the project the output of the debug of the server tomcat should be soemthing like this :
 <p align="center">
-  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/idea64_PLd9r85nK5.png" width="60%"></a>
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/tYvRadYJAq.png" width="60%"></a>
 </p>
