@@ -3,17 +3,34 @@
 	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
 <head>
 <meta charset="ISO-8859-1">
-<title>Cabinet Dentaire</title>
+	<title>Clinique-Sourire</title>
 <link th:href="@{/assets/css/maicons.css}" rel="stylesheet">
 <link th:href="@{assets/css/bootstrap.css}" rel="stylesheet">
 <link th:href="@{/assets/css/maicons.css}" rel="stylesheet">
 <link th:href="@{/assets/vendor/animate/animate.css}" rel="stylesheet">
 <link th:href="@{/assets/css/theme.css}" rel="stylesheet">
 <link th:href="@{assets/vendor/owl-carousel/css/owl.carousel.css}" rel="stylesheet">
-<link rel="stylesheet"
-	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-	integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-	crossorigin="anonymous">
+	<link rel="stylesheet" href=
+			"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+	<script src=
+					"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+	</script>
+
+	<script src=
+					"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js">
+	</script>
+
+	<script src=
+					"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+	</script>
+	<link rel="stylesheet"
+		  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+		  integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+		  crossorigin="anonymous">
+
+	<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA////AMTExADr6+sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAAAAIgAAAiIAAAIhAAACEgAAAiEAAAIRIAAiEQAAAhETAiERAAACEREREREAADIREREREwAAMxEREREzEAAzERERETEQABMRERERMTAAERERERETMAARMRERERMQABETERERMxAAAREwABMxAAAAAAAAAAAADP5wAAh8MAAIODAACDgwAAgQMAAIADAACAAwAAAAMAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAIADAADDhwAA" rel="icon" type="image/x-icon" />
+
 
 </head>
 <body>
@@ -105,8 +122,11 @@
 					<td th:text="${patient.adresse}"></td>
 					<td width="180"> 
 						<a th:href="@{/listRdv/{id}(id=${patient.id})}" class="btn btn-primary">Rendez vous</a>
+						<br><br>
 						<a th:href="@{/updatePatient/{id}(id=${patient.id})}" class="btn btn-primary">Update</a>
+						<br><br>
 					    <a th:href="@{/deletePatient/{id}(id=${patient.id})}" class="btn btn-danger">Delete</a>
+						<br><br>
 					</td>
 				</tr>
 			</tbody>
