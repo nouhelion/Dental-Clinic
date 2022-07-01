@@ -57,8 +57,3 @@ then check the list
 <p align="center">
   <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_syY03rLrzS.png" width="60%"></a>
 </p>
-
-J-- we can also list our patients
-<p align="center">
-  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_gV1KtkJQXX.png" width="60%"></a>
-</p>
