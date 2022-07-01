@@ -21,3 +21,8 @@ D-- when you run the project the output of the debug of the server tomcat should
 <p align="center">
   <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/tYvRadYJAq.png" width="60%"></a>
 </p>
+
+E-- after you get similar output as i did , it should be obvious that you need to type localhost:[number of the port that u chose] for example in my application i chose 9000 so the output should be something like this : 
+<p align="center">
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_xzZQWMCIJo.png" width="60%"></a>
+</p>
