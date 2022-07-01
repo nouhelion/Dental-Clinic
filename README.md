@@ -39,7 +39,7 @@ Register :
 
 G-- we are able to add a patient
 <p align="center">
-  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_gV1KtkJQXX.png" width="60%"></a>
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_lZSes8KpbV.png" width="60%"></a>
 </p>
 
 H-- we can also list our patients
