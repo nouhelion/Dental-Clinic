@@ -26,3 +26,18 @@ E-- after you get similar output as i did , it should be obvious that you need t
 <p align="center">
   <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_xzZQWMCIJo.png" width="60%"></a>
 </p>
+
+F-- we gonna be able to connect and register 
+<p align="center">
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_gV1KtkJQXX.png" width="60%"></a>
+</p>
+
+G-- we are able to add a patient
+<p align="center">
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_gV1KtkJQXX.png" width="60%"></a>
+</p>
+
+H-- we can also list our patients
+<p align="center">
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_gV1KtkJQXX.png" width="60%"></a>
+</p>
