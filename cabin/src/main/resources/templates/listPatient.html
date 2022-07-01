@@ -112,14 +112,14 @@
 			</thead>
 			<tbody>
 				<tr scope="row" th:each="patient : ${listPatients}">
-					<td th:text="${patient.nom}"></td>
-					<td th:text="${patient.prenom}"></td>
-					<td th:text="${patient.sexe}"></td>
-					<td th:text="${patient.dateNaissance}"></td>
-					<td th:text="${patient.email}"></td>
-					<td th:text="${patient.telephone}"></td>
-					<td th:text="${patient.assurance}"></td>
-					<td th:text="${patient.adresse}"></td>
+					<td class="align-middle" th:text="${patient.nom}"></td>
+					<td class="align-middle" th:text="${patient.prenom}"></td>
+					<td class="align-middle" th:text="${patient.sexe}"></td>
+					<td class="align-middle" th:text="${patient.dateNaissance}"></td>
+					<td class="align-middle" th:text="${patient.email}"></td>
+					<td class="align-middle" th:text="${patient.telephone}"></td>
+					<td class="align-middle" th:text="${patient.assurance}"></td>
+					<td class="align-middle" th:text="${patient.adresse}"></td>
 					<td width="180"> 
 						<a th:href="@{/listRdv/{id}(id=${patient.id})}" class="btn btn-primary">Rendez vous</a>
 						<br><br>
