@@ -50,7 +50,7 @@ H-- we can modify the patient too
 I-- when we delete a patient and we go check the list of patient we find nothing 
 to delete the patient we click on the button supprimer
 <p align="center">
-  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/chrome_gV1KtkJQXX.png" width="60%"></a>
+  <a><img src="https://github.com/nouhelion/Dental-Clinic/blob/main/tt.png" width="60%"></a>
 </p>
 
 then check the list
